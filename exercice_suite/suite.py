@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 
+# commentaire
+
 class Suite():
 
     def __init__(self, last, function, *initials):
